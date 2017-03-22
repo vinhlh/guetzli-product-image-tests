@@ -4,8 +4,8 @@
 Original product images
 
 ## Compressors
-- ![guetzli](https://github.com/google/guetzli)
-- ![mozjpeg](https://github.com/mozilla/mozjpeg)
+- [guetzli](https://github.com/google/guetzli)
+- [mozjpeg](https://github.com/mozilla/mozjpeg)
 
 ## Results
 Average:
@@ -24,5 +24,5 @@ Details:
 - `mozjpeg` images: 0.
 
 ## Read more
-- ![Guetzli: Perceptually Guided JPEG Encoder](https://arxiv.org/pdf/1703.04421.pdf)
-- ![Users prefer Guetzli JPEG over same-sized libjpeg](https://arxiv.org/pdf/1703.04416.pdf)
+- [Guetzli: Perceptually Guided JPEG Encoder](https://arxiv.org/pdf/1703.04421.pdf)
+- [Users prefer Guetzli JPEG over same-sized libjpeg](https://arxiv.org/pdf/1703.04416.pdf)
