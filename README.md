@@ -20,8 +20,8 @@ Details:
 - https://vinhlh.github.io/guetzli-tests/public/stats/compare_mozjpeg.txt
 
 ## Butteraugli scores
-- `guetzli` images: ~0.97.
-- `mozjpeg` images: 0.
+- `guetzli` images: around 0.97 - 0.971.
+- `mozjpeg` images: 0 with all images.
 
 ## Read more
 - [Guetzli: Perceptually Guided JPEG Encoder](https://arxiv.org/pdf/1703.04421.pdf)
